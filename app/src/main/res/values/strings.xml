@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ManDataHack23</string>
+    <string-array name="dataTypesMySQL">
+        <item>integer</item>
+        <item>float</item>
+        <item>varchar(100)</item>
+    </string-array>
+    <string-array name="constraintsMySQL">
+        <item>not null</item>
+        <item>unique</item>
+    </string-array>
+</resources>
